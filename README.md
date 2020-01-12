@@ -4,7 +4,7 @@ Created for UT Web Developer Boot Camp.
 
 https://vpang79.github.io/mello-frontend/
 
-https://user-images.githubusercontent.com/53632868/72214681-a0903700-34cc-11ea-8617-a2d2959dd148.png
+<img src="https://user-images.githubusercontent.com/53632868/72214681-a0903700-34cc-11ea-8617-a2d2959dd148.png">
 
 
 Authors
